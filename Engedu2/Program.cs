@@ -16,6 +16,7 @@ namespace Engedu2
             Console.WriteLine("Year 2560 seamster 2 , I learn to GUI.");
             Console.WriteLine("Year 2561 seamster 1 , I start to coach.");
             Console.WriteLine("Year 2561 seamster 2 , I learn to sofware.");
+            Console.WriteLine("Year 2562 seamster 1 , I make a project.");
 
 
         }
