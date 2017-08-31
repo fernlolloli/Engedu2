@@ -11,7 +11,8 @@ namespace Engedu2
         static void Main(string[] args)
         {
             Console.WriteLine("Year 255x seamster 1 , I am Engedu freshman.");
-            Console.WriteLine("Year 255x seamster 2 , I leran to program in c sharp.");
+            Console.WriteLine("Year 255x seamster 2 , I learn to program in c sharp.");
+            Console.WriteLine("Year 255x seamster 1 , I start my programmer life.");
         }
     }
 }
